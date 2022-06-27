@@ -6,7 +6,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\nAbout Me\r\nHey! My name is Katie Zhong and I’m an incoming\r\nfreshman at the University of Waterloo.\r\nI love music, reading, and art. Got any recommendations? I’ll give\r\nanything a try!\r\nAbout the Project\r\nTITLE: Project about Data Science! DESCRIPTION: This project\r\nis about data science.\r\nGoals\r\nHere’s Goal #1\r\nAnd here’s Goal #2!\r\nHere’s a complication to Goal #2…\r\n\r\nAs Preceptor would say, “this is data science”\r\n\r\nKatie\r\n\r\nKane’s Free High School\r\nData Science Bootcamp\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-06-27T18:05:58-04:00"
+      "last_modified": "2022-06-27T18:28:55-04:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,35 @@
       "description": "This is where I will describe my final project.\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-06-27T18:06:02-04:00"
+      "last_modified": "2022-06-27T18:28:59-04:00"
+    },
+    {
+      "path": "source_A.html",
+      "title": "Source A",
+      "description": "Detailed notes for Source A\n",
+      "author": [
+        {
+          "name": "Katie Zhong",
+          "url": {}
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\r\nDistill is a publication format for scientific and technical writing,\r\nnative to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-06-27T18:29:00-04:00"
+    },
+    {
+      "path": "source_B.html",
+      "title": "Source B",
+      "description": "Detailed notes for Source B\n",
+      "author": [
+        {
+          "name": "Katie Zhong",
+          "url": {}
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\r\nDistill is a publication format for scientific and technical writing,\r\nnative to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-06-27T18:29:01-04:00"
     }
   ],
   "collections": []
