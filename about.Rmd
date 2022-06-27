@@ -8,3 +8,23 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## About Me
+Hey! My name is **Katie Zhong** and I'm an incoming freshman at the University of Waterloo.
+
+I love music, reading, and art. Got any recommendations? I'll give anything a try!
+
+
+## About the Project
+TITLE: *Project about Data Science!*
+DESCRIPTION: This project is about data science.
+
+
+## Goals
+* Here's Goal #1
+* And here's Goal #2!
+  + Here's a complication to Goal #2...
+  
+As Preceptor would say, "this is data science"  
+~ Katie
+
+[Kane’s Free High School Data Science Bootcamp](https://bootcamp.davidkane.info/)
